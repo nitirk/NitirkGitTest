@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+	<name>lab8</name>
+=======
+<<<<<<< HEAD
 	<name>Boook</name>
 =======
 	<name>NitirkGithub</name>
 >>>>>>> 2c8c9c5683b5aeb64bad34b5f800b7d4b864693d
+>>>>>>> 01733c05ddb8fbf73d44a9261dd037767eb1544b
 	<comment></comment>
 	<projects>
 	</projects>
