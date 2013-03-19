@@ -1,5 +1,8 @@
 *.class
 *.pyc
 *.pyo
+<<<<<<< HEAD
 .svn
 _svn
+=======
+>>>>>>> 01733c05ddb8fbf73d44a9261dd037767eb1544b
